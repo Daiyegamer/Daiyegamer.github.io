@@ -7,7 +7,5 @@ Hi there 👋
 Although I have several years of experience with pc software and hardware repair, I'm new to coding and am working on getting up to speed as a web developer. I am currently studying Web design and development at Humber College. 
 
 
-This is a link to the program I am currently enrolled in
-
-https://mediaarts.humber.ca/programs/web-development.html
+[This is a link to the program I am currently enrolled in](https://mediaarts.humber.ca/programs/web-development.html)
 
